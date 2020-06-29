@@ -2,6 +2,7 @@ body{
 
     font-family: 'Lato', sans-serif;
     font-family: 'Quicksand', sans-serif;
+    margin: 0px;
 }
 
 h1{
@@ -18,6 +19,7 @@ p{
 
     text-align: left;
 }
+
 .half-width{
 
     width: 40%;
@@ -30,4 +32,26 @@ p{
 
     width: 75%;
     margin-left: 25%;
+}
+
+.top-banner{
+
+    background-image: url("images/cubes.jpg");
+    background-repeat: no-repeat;
+}
+
+.section{
+
+    height: 500px;
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(60deg, gold, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+    padding-top: 5px;
 }
