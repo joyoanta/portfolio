@@ -1,0 +1,33 @@
+body{
+
+    font-family: 'Lato', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+
+    font-size: 50px;
+}
+
+.highlights{
+
+    color: orange;
+}
+
+p{
+
+    text-align: left;
+}
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+
+    width: 75%;
+    margin-left: 25%;
+}
