@@ -25,6 +25,11 @@ p{
     color: dimgrey;
 }
 
+a:hover {
+
+    color: white;
+}
+
 .half-width{
 
     width: 40%;
@@ -60,6 +65,8 @@ section{
     border-radius: 5px;
     color: black;
     font-weight: 700;
+    transition: width 2s;
+    
     
 }
 
@@ -213,10 +220,9 @@ li.mb:after {
 
 footer p {
 
-
     color: rgb(63, 61, 61);
     padding-top: 10px;
     padding-bottom: 5px;
     text-decoration: none;
-    text-align: center;
+    
 }
